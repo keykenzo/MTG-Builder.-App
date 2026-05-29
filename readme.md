@@ -10,34 +10,37 @@ This is an MTG Deck App, a project that lets Magic: The Gathering players browse
 
 | Card Browser | Deck Builder | Card Prices |
 |:---:|:---:|:---:|
-| <img src="MTGDeckApp/Screenshots/browse.png" width="200"> | <img src="MTGDeckApp/Screenshots/deckbuilder.png" width="200"> | <img src="MTGDeckApp/Screenshots/prices.png" width="200"> |
+| <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.35.png?raw=true" width="200"> | <img src="https://github.com/keykenzo/MTG-Builder.-App/raw/main/Screenshot%202026-05-28%20at%2020.46.32.png?raw=true" width="200"> | <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2021.02.43.png?raw=true" width="200"> |
 
 ### Complete Gallery
 
 Here you can see the app in action:
 
 <p align="left">
-  <img src="MTGDeckApp/Screenshots/browse_list.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/card_detail.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/deck_stats.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/mana_curve.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/search.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/price_history.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/collection_sets.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/deck_export.png" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.40.33.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.35.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.01.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.04.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.46.32.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.47.16.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.47.01.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.47.58.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.07.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.19.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.21.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.23.png?raw=true" width="200" hspace="5">  
 </p>
 
 #### 🌙 Dark Mode & Extras
 
 <p align="left">
-  <img src="MTGDeckApp/Screenshots/browse_dark.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/deckbuilder_dark.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/card_detail_dark.png" width="200" hspace="5">
-  <img src="MTGDeckApp/Screenshots/prices_dark.png" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.35.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2021.02.43.png?raw=true" width="200" hspace="5">
+  <img src="https://github.com/keykenzo/MTG-Builder.-App/raw/main/Screenshot%202026-05-28%20at%2020.48.23.png?raw=true" width="200" hspace="5">
 </p>
 
 > [!TIP]
-> <img src="MTGDeckApp/Screenshots/presentation.gif" width="200">
+> <img src="https://github.com/keykenzo/MTG-Builder.-App/blob/main/Screenshot%202026-05-28%20at%2020.48.35.png?raw=true" width="200">
 
 ## ✨ Features
 
