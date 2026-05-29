@@ -1,4 +1,4 @@
-# MTG Deck App 🃏
+# MTG Deck App
 [![Swift Version](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
 [![iOS Version](https://img.shields.io/badge/iOS-18.0%2B-blue.svg)](https://apple.com/ios)
 
@@ -58,24 +58,3 @@ Here you can see the app in action:
 - **Card Data:** Scryfall API
 - **Pricing:** TCGPlayer / CardMarket API
 - **Key Concepts:** async/await, Combine, SwiftData
-
-## 🚀 How to run the project
-
-1. Clone Repository:
-   ```bash
-   git clone https://github.com/seu-usuario/MTGDeckApp.git
-   ```
-
-2. Open in Xcode:
-   ```bash
-   cd MTGDeckApp
-   open MTGDeckApp.xcodeproj
-   ```
-
-3. Add your API keys in `Config.swift`:
-   ```swift
-   let scryfallBaseURL = "https://api.scryfall.com"
-   let tcgPlayerAPIKey = "your_key_here"
-   ```
-
-4. Select your simulator or device and press **Run** (`⌘R`).
